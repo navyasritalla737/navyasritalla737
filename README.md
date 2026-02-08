@@ -3,6 +3,10 @@
 I’m learning and building step by step in the tech world.  
 This GitHub shows my practice, mini projects, and growth journey.
 
+## Contact Me
+- Email: navyasritalla737@gmail.com
+- LinkedIn: https://www.linkedin.com/in/navyasritalla/
+- 
 ## 💻 Skills
 - Python (basics)
 - HTML & CSS
