@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m a Navya Sri Talla
 
-<!--
-**navyasritalla737/navyasritalla737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning and building step by step in the tech world.  
+This GitHub shows my practice, mini projects, and growth journey.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python (basics)
+- HTML & CSS
+- Cybersecurity fundamentals
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What’s Here
+- Beginner projects  
+- Practice code  
+- Learning experiments  
+
+## 🌱 Goal
+Learn consistently, build skills, and grow every day.
+
+⭐ Thanks for visiting!
